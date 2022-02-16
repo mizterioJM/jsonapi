@@ -1,0 +1,14 @@
+{
+  "current": "1.6",
+  "enabled": true,
+  "updateMessage": {
+    "title": "Nueva Actualización!",
+    "msg": "Las actualizaciones son necesarias para la optimizacion del APP y lograr una mejor experiencia para el usuario.",
+    "btn": "Ok"
+  },
+  "maintenanceMessage": {
+    "title": "App en Mantenimiento.",
+    "msg": "El Applicativo se encuentra en Mantenimiento. Volveremos dentro de unos minutos.",
+    "btn": "Ok"
+  }
+}
